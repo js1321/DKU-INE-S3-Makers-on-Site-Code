@@ -13,7 +13,7 @@ BLE wireless control system with AI-assisted recognition.
 ![Wiring Connection](https://github.com/js1321/DKU-INE-S3-Makers-on-Site-Code/blob/44540c2af5681eabf8e7e0c33c7fb8424d06fad8/assests/wiring_connection.jpg)
 
 ### Demo Video
-[Smart Car Running Demo](assets/demo_run.mp4)
+[Smart Car Running Demo](https://github.com/js1321/DKU-INE-S3-Makers-on-Site-Code/blob/817870b6f39086e36c65445d330b0dd065c84824/assests/Overview.mp4)
 
 
 
