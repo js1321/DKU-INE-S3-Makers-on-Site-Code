@@ -2,7 +2,15 @@
 MicroBlocks project for DKU INE Lab Session 3 smart car prototype.
 BLE wireless control system with AI-assisted recognition.
 
-![Smart Car Prototype](assets/smartcar.jpg)
+## Project Photos
+### Full Prototype
+![Smart Car Full Prototype](assets/car_overview.jpg)
+
+### Circuit Diagram
+![Circuit Diagram](assets/circuit_diagram.jpg)
+
+### Wiring Connection
+![Wiring Connection](assets/wiring_connection.jpg)
 
 ## Project Overview
 This project builds a wireless smart car system using two ESP32 boards programmed with MicroBlocks.
