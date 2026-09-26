@@ -10,7 +10,7 @@ BLE wireless control system with AI-assisted recognition.
 ![Circuit Diagram](https://github.com/js1321/DKU-INE-S3-Makers-on-Site-Code/blob/3bfc76ad4a995bf0d7dcbbe7661f092eb0310c75/assests/circuit_diagram.jpg)
 
 ### Wiring Connection
-![Wiring Connection](assets/wiring_connection.jpg)
+![Wiring Connection](https://github.com/js1321/DKU-INE-S3-Makers-on-Site-Code/blob/44540c2af5681eabf8e7e0c33c7fb8424d06fad8/assests/wiring_connection.jpg)
 
 ## Project Overview
 This project builds a wireless smart car system using two ESP32 boards programmed with MicroBlocks.
