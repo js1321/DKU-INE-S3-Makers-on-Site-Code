@@ -7,7 +7,7 @@ BLE wireless control system with AI-assisted recognition.
 ![Smart Car Full Prototype](https://github.com/js1321/DKU-INE-S3-Makers-on-Site-Code/blob/17b2fdac08cc5c53647a2f02259ac20fdbd88998/assests/car_overview.jpg)
 
 ### Circuit Diagram
-![Circuit Diagram](assets/circuit_diagram.jpg)
+![Circuit Diagram](https://github.com/js1321/DKU-INE-S3-Makers-on-Site-Code/blob/3bfc76ad4a995bf0d7dcbbe7661f092eb0310c75/assests/circuit_diagram.jpg)
 
 ### Wiring Connection
 ![Wiring Connection](assets/wiring_connection.jpg)
